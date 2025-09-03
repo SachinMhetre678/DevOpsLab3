@@ -42,7 +42,5 @@ Regularly update your branch with recent changes from `main`:
 - git pull origin main
 - git checkout yourname
 - git merge main
-- 
-
 
 
